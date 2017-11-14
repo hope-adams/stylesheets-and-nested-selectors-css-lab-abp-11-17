@@ -5,3 +5,18 @@
 body {
   padding: 0 30px 0 30px;
 }
+header {
+  height: 100px;
+  border-bottom: 1px solid #cccccc;
+}
+
+header nav {
+  float: right;
+}
+ul nav {
+  margin: TOP RIGHT BOTTOM LEFT
+}
+li ul nav {
+  display: inline; 
+  margin-right: 10px;
+}
