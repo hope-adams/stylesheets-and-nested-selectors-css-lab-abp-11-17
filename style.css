@@ -16,7 +16,12 @@ header nav {
 ul nav {
   margin: TOP RIGHT BOTTOM LEFT
 }
-li ul nav {
-  display: inline; 
+nav ul li {
+  display: inline;
   margin-right: 10px;
+}
+a:nav {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px
 }
